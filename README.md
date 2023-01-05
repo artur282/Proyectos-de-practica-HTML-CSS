@@ -7,3 +7,5 @@
 -Proyecto 3: barra de busqueda
 
 -Proyecto 4: confirmacion de pago(Paypal)
+
+-Proyecto 5: carta de pokemon ejemplo
