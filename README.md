@@ -9,3 +9,5 @@
 -Proyecto 4: confirmacion de pago(Paypal)
 
 -Proyecto 5: carta de pokemon ejemplo
+
+-Proyecto 6 :landing page (KFC)
